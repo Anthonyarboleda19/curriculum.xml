@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Anthony Josua</nombre>
+    <apellidos>Arboleda Arias</apellidos>
+    <emails>
+	<trabajo>anthony.arboleda.viaje@gmail.com</trabajo>
+	<personal>arboleda.anthony19@gmail.com</personal>
+	</emails>
+  </datos_personales>
+  <experiencias>
+    <experiencia>
+      <empresa>singular</empresa>
+      <cargo>auxiliar de camarero</cargo>
+      <inicio>2026-10</inicio>
+      <final>actualmente</final>
+    </experiencia>
+    <experiencia>
+      <empresa>megaviche</empresa>
+      <cargo>atencion al cliente</cargo>
+      <inicio>2025-08</inicio>
+      <final>a2025-10</final>
+    </experiencia>
+    </experiencias>
+  <formacion>
+    <formacion>
+	  <centro>Unidad Educativa Replica Juan Pio Montufar</centro>
+      <cargo>estudiante de bachillerato general unificado</cargo>
+      <inicio>2023-9</inicio>
+      <final>2025-6</final>
+	</formacion>
+	<formacion>
+	  <centro>Ceac</centro>
+      <cargo>estudiante de administrador de sistemas informaticos en red</cargo>
+      <inicio>2026-9</inicio>
+      <final>actualmente</final>
+	</formacion>
+	</formacion>
+</curriculum>
